@@ -121,4 +121,34 @@
 
   日記(用戶帳號，時間，地點，人物，事情)
 
-  用戶帳號->用戶姓名，用戶帳號->密碼。第四范式
+  時間->地點，時間->人物。時間->事情。第四范式
+
+# 第五章 個人日記模塊主要源代碼
+
+  5.1 登入介面的源代碼
+
+  登入介面主函數：
+
+  SetPointer(hourglass!)
+
+  IF PARENT.load_connet(sle_1.text,sle_2.text)=-1 THEN
+
+      MessageBox("連接數據庫錯誤"，"連接失敗"+sqlca.sqlerrtext)
+
+      HALT
+
+    ELSE
+
+      messagebox("恭喜!"，"密碼正確，已批准登錄系統!")
+
+    close(parent)
+
+      Open(w_cxselect)
+
+    END IF
+
+  5.2 管理個人日記模塊的源代碼
+
+  5.2.1 查詢模塊的源代碼：
+
+  
