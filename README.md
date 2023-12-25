@@ -129,9 +129,9 @@
 
   登入介面主函數：
 
-  SetPointer(hourglass!)
+    SetPointer(hourglass!)
 
-  IF PARENT.load_connet(sle_1.text,sle_2.text)=-1 THEN
+    IF PARENT.load_connet(sle_1.text,sle_2.text)=-1 THEN
 
       MessageBox("連接數據庫錯誤"，"連接失敗"+sqlca.sqlerrtext)
 
