@@ -151,4 +151,53 @@
 
   5.2.1 查詢模塊的源代碼：
 
+    string 用戶帳號
+
+    用戶帳號 = trim(sle_1.text)
+
+      if 用戶帳號 = "" then
+
+        messagebox("沒有輸入用戶帳號"，"請輸入正確的查詢條件!")
+
+        else
+
+        dw_1.Retrieve(用戶帳號)
+
+          else if
+
+          sle_1.setFocus()
+
   
+  5.2.2 管理個人日記源代碼
+
+    管理功能主函數： 
+    
+    添加(錄入)主函數：Long row
+
+                    row = dw_1.InserRow(0)
+
+                    dw_1.SetRow = (row)
+
+                    dw_1.ScrollToRow = (row)
+
+                    dw_1.SetFocus = (row)
+
+    插入主函數：     Long row
+
+                    row = dw_1.InserRow(dw_1.GetRow())
+
+                    dw_1.SetRow = (row)
+
+                    dw_1.ScrollToRow = (row)
+
+                    dw_1.SetFocus = (row)
+
+    顯示主函數：     dw_1.Retrieve = ()
+
+    更新主函數：     dw_1.UpDate = ()
+
+                    dw_1.ReSet = ()
+
+    刪除主函數：      dw_1.DeleteRow(dw_1.GetRow())
+
+
