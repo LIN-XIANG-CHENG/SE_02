@@ -247,7 +247,9 @@
 
 ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P9%E5%9C%961.png)
 
- P9圖3 插入為空時，系統出現提示
+ P9圖2 插入為空時，系統出現提示
+
+ ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P9%E5%9C%962.png)
 
  6.3 功能測試
 
@@ -258,7 +260,7 @@
 
 ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P9%E5%9C%963.png)
  
- P9圖1 個人日記查詢功能
+ P9圖3 個人日記查詢功能
 
  6.3.2 管理功能
 
