@@ -269,16 +269,16 @@
  1.顯示功能：單擊顯示按鈕，顯示結果如圖所示。測試發現該系統缺陷在於顯示時不排序。完全按照信息輸入的順序顯示，這個問題解決方案可以在顯示
 按鈕的腳本中添加排序函數。
 
-![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P9%E5%9C%962.png)
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P10%E5%9C%961.png)
 
- P9圖2 顯示功能的測試結果
+ P10圖1 顯示功能的測試結果
  
  2.刪除功能：選擇要刪除的行(10006)，單擊刪除，更新完成刪除。刪除比較簡單，找見所要刪除的行，直接刪除。可以更完善的是添加一個搜索功能，
 搜索要刪除的條目，甚至可以批量刪除。
 
-![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P9%E5%9C%963.png)
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P10%E5%9C%962.png)
 
- P9圖3 刪除功能的實現
+ P10圖2 刪除功能的實現
 
  6.3 測試結論
 
@@ -306,6 +306,16 @@
 [2]鄭阿奇.PowerBuilder使用教學(第三版).電子工業出版社，2009年2月.
 
 [3]張海籓.軟件工程導論(第五版).清華大學出版社，2008年2.
+
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P11%E5%9C%961.png)
+
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P12%E5%9C%961.png)
+
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P12%E5%9C%962.png)
+
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P12%E5%9C%963.png)
+
+![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P13%E5%9C%961.png)
 
 # 參考文獻
 
