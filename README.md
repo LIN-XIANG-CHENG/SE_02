@@ -57,7 +57,9 @@
 
   2.3 系統的數據流圖
 
-  圖 系統的數據流圖
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P1%E5%9C%961.png)
+
+  圖1 系統的數據流圖
 
   2.4 系統的數據字典
 
