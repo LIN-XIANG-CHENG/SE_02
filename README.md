@@ -59,7 +59,7 @@
 
   ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P1%E5%9C%961.png)
 
-  圖1 系統的數據流圖
+  P1圖1 系統的數據流圖
 
   2.4 系統的數據字典
 
@@ -69,19 +69,19 @@
 
   ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P2%E5%9C%962.png)
 
-  圖2 通訊錄、備忘錄、個人日記和個人財務的數據字典
+  P1圖2、P2圖1、P2圖2、 通訊錄、備忘錄、個人日記和個人財務的數據字典
 
   2.5 系統的E-R圖
 
   ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P2%E5%9C%963.png)
 
-  圖3 系統的E-R圖
+  P2圖3 系統的E-R圖
 
   2.6 個人日記模塊的E-R圖
 
   ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P3%E5%9C%961.png)
 
-  圖4 個人日記模塊的E-R圖
+  P3圖1 個人日記模塊的E-R圖
 
 # 第三章 個人信息系統概要設計
 
@@ -91,13 +91,17 @@
 
   根據系統中所包含的內容，該系統可以分為兩個子系統，分別為查詢系統和管理子系統。查詢又分別為通訊錄的查詢、備忘錄的查詢、個人日記的查詢和個人財物的查詢。管理子系統又包刮通訊錄、備忘錄、個人日記的和個人財物的錄入、刪除和顯示。
 
-  圖 個人日記模塊結構圖
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P3%E5%9C%962.png)
+
+  P3圖2 個人日記模塊結構圖
 
   3.2 系統功能模塊設計圖
 
   詳細的功能模塊設計圖如圖所示：
 
-  圖 詳細介紹功能模塊
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P4%E5%9C%961.png)
+
+  P4圖1 詳細介紹功能模塊
 
 # 第四章 個人信息管理系統詳細設計
 
@@ -105,17 +109,27 @@
 
   根據設計要求設計出各個表結構
 
-  表 各個表結構如下所示
+  表1 各個表結構如下所示
 
   用戶表：
 
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P4%E5%9C%962.png)
+
   通訊錄表：
+
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P4%E5%9C%963.png)
 
   備忘錄表：
 
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P4%E5%9C%964.png)
+
   日記表：
 
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P5%E5%9C%962.png)
+
   個人財務表：
+
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P6%E5%9C%963.png
 
   4.2 個人日記交互介面
 
