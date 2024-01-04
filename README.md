@@ -63,15 +63,25 @@
 
   2.4 系統的數據字典
 
-  圖 通訊錄、備忘錄、個人日記和個人財務的數據字典
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P1%E5%9C%962.png)
+
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P2%E5%9C%961.png)
+
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%872/P2%E5%9C%962.png)
+
+  圖2 通訊錄、備忘錄、個人日記和個人財務的數據字典
 
   2.5 系統的E-R圖
 
-  圖 系統的E-R圖
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P2%E5%9C%963.png)
+
+  圖3 系統的E-R圖
 
   2.6 個人日記模塊的E-R圖
 
-  圖 個人日記模塊的E-R圖
+  ![image](https://github.com/LIN-XIANG-CHENG/SE_02/blob/main/%E6%96%87%E4%BB%B6%E5%9C%96%E7%89%87/%E5%9C%96%E7%89%871/P3%E5%9C%961.png)
+
+  圖4 個人日記模塊的E-R圖
 
 # 第三章 個人信息系統概要設計
 
